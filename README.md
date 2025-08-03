@@ -11,23 +11,15 @@ In this **real-time DevOps project**, I demonstrate how to **deploy a Swiggy Clo
 6. **Trivy** ![Trivy](https://img.shields.io/badge/Trivy-00979D?style=flat-square&logo=trivy&logoColor=white)
 7. **Docker & DockerHub** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![DockerHub](https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
+--
 
-### 📹 Video Link: [**Click Here**](https://youtu.be/x55z7rk0NAU?si=gM1_61wUoq3ChiHD)
+### 📂 Terraform Script Repository: [**Terraform Script for Swiggy Clone App**](https://github.com/DEVESH7k/Terraform-Script-Swiggy.git)
 
-### 📂 Terraform Script Repository: [**Terraform Script for Swiggy Clone App**](https://github.com/KastroVKiran/Terraform-Script-Swiggy-Kastro.git)
-
-### 📺 Docker Playlist: [**Watch on YouTube**](https://youtube.com/playlist?list=PLs-PsDpuAuTeNx3OgGQ1QrpNBo-XE6VBh&si=c75uaxvjazr-mIdw)
 
 ---
 
 ## About Me  
 <img src="https://media.licdn.com/dms/image/v2/D5603AQHJB_lF1d9OSw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718971147172?e=1733356800&v=beta&t=bz-SXs7FHwIDqQ9xlPibErrGvpHDdAjMJEr9WqHsi9A" alt="Kastro Profile Image" width="150" height="150" style="border-radius:50%;">
-
-**Kastro**    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kastro-kiran/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KastroVKiran)  
-
 ---
 
 ## 📢 **Share Your Experience!**
